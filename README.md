@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Mathieu Trindade 👋
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mathieu-trindade)
 
 <!--
 **Mathieutrindade/mathieutrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
